@@ -2,14 +2,12 @@
 
 > Server-Sent Events and WebSocket implementations - Zero external dependencies, RFC-compliant, production-ready
 
-[![Go Version](https://img.shields.io/badge/Go-1.25%2B-00ADD8?style=flat&logo=go)](https://go.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Tests](https://github.com/coregx/stream/workflows/Tests/badge.svg)](https://github.com/coregx/stream/actions)
+[![Go Reference](https://pkg.go.dev/badge/github.com/coregx/stream.svg)](https://pkg.go.dev/github.com/coregx/stream)
 [![Go Report Card](https://goreportcard.com/badge/github.com/coregx/stream)](https://goreportcard.com/report/github.com/coregx/stream)
-[![Coverage](https://img.shields.io/badge/Coverage-84.3%25-brightgreen.svg)](https://github.com/coregx/stream)
-[![GoDoc](https://pkg.go.dev/badge/github.com/coregx/stream)](https://pkg.go.dev/github.com/coregx/stream)
-[![Version](https://img.shields.io/badge/Version-v0.1.0-blue.svg)](https://github.com/coregx/stream/releases)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](https://github.com/coregx/stream)
+[![Tests](https://github.com/coregx/stream/actions/workflows/test.yml/badge.svg)](https://github.com/coregx/stream/actions)
+[![codecov](https://codecov.io/gh/coregx/stream/branch/main/graph/badge.svg)](https://codecov.io/gh/coregx/stream)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Release](https://img.shields.io/github/v/release/coregx/stream)](https://github.com/coregx/stream/releases)
 
 ---
 
